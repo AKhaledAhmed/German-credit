@@ -12,7 +12,7 @@ To build and compare classification models that can accurately predict credit ri
 
 ## 📊 Dataset
 
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- **Source**: [kaggle dataset](https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk)
 - **Size**: 1,000 records, 21 features
 - **Target**: `Risk` (`good` or `bad`)
 - **Features include**: Age, Sex, Housing, Credit Amount, Duration, Checking/Savings Account info, Purpose of the loan, etc.
