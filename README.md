@@ -1,4 +1,3 @@
-# German-credit
 # German Credit Risk Classification
 
 This project performs an end-to-end classification task on the **German Credit Risk Dataset** to predict whether a customer is a **good or bad credit risk** based on various demographic and financial features.
